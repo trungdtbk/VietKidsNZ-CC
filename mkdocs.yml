@@ -1,0 +1,7 @@
+site_name: VietKidsNZ-Coding Club
+site_description: Training materials and info about the Club activities
+site_author: Trung Truong
+theme: readthedocs
+nav:
+  - Home: index.md
+  - About: about.md
