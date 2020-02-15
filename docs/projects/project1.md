@@ -5,19 +5,19 @@ In this project, we're gonna talk about ourself... (Hey, do not say anything pri
 - First stuff, write a few sentences about yourself in your Scratch profile
 - Next, build a Scratch program to introduce yourself to the world :). The basic thing may look like this.
 
-![](/images/project1/1.png)
+![](project1/1.png)
 
 When click on Start, it goes like: say "Hello" (or even better hello by their username) and show a button to click on.
 
-![](/images/project1/2.png)
+![](project1/2.png)
 
 When click on the button, it shows yourself intro like:
 
-![](/images/project1/3.png)
+![](project1/3.png)
 
 If you have more things to say, you can add a click option to show other boxes, like this
 
-![](/images/project1/4.png)
+![](project1/4.png)
 
 **What can you do to improve it and make it more interesting?** 
 
@@ -28,13 +28,13 @@ A few easy things like change the default background, customize your Sprite or y
 There are many ways you can do to build this project. Can you figure it out?
 Here are a few blocks you may need:
 
-![](/images/project1/5.png)
-![](/images/project1/8.png)
+![](project1/5.png)
+![](project1/8.png)
 
-![](/images/project1/6.png) or ![](/images/project1/7.png)
+![](project1/6.png) or ![](project1/7.png)
 
 
-![](/images/project1/9.png)
+![](project1/9.png)
 
 # You can take a look at how other Scratchers did
 
