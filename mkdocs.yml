@@ -4,4 +4,7 @@ site_author: Trung Truong
 theme: readthedocs
 nav:
   - Home: index.md
+  - Our meetup: meetup.md
+  - Our Projects: projects.md
+  - Scratch: scratch.md
   - About: about.md
