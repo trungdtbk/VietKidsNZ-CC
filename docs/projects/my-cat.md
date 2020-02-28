@@ -1,4 +1,4 @@
-# My cat
+# My cat :cat:
 
 ### Your mission:
 Using Scratch, build an app that you click on the cat character, it sounds :cat:. 
@@ -44,5 +44,7 @@ Try to do it yourself before looking at the instruction below.
     1. **Ok, we're done!**
 
         !!! question "Challenge"
-            **Can you improve it by making a change or two, or adding something else?** 
+            **Can you improve it by making a change or two, or adding something else, like say "hi", a background, costume...?** 
 
+    !!! note "This is my one"
+        [https://scratch.mit.edu/projects/371346779/](https://scratch.mit.edu/projects/371346779/)
