@@ -1,6 +1,6 @@
 # My cat :cat:
 
-### Your mission:
+### Your mission
 Using Scratch, build an app that you click on the cat character, it sounds :cat:. 
 Can you also make it walks to the mouse-pointer as well? 
 If you move the mouse-pointer around, the cat will follow :thumbup:
@@ -9,12 +9,16 @@ Try to do it yourself before looking at the instruction below.
 
 ??? "Click to see"
 
-    1. **Create a new project, then you already have a cat**
-    1. **Open the Block Palatte and look for this:** ![Start block](../images/scratch-start-block.png){: style="max-height:30px;width:auto;height:auto;"}
+    1. ### Create a new project
+    Then you already have a cat
+
+    1. ### Add **Start** block
+    Open the Block Palatte and look for this:** ![Start block](../images/scratch-start-block.png){: style="max-height:30px;width:auto;height:auto;"}
         
         ![Block Palatte](../images/scratch/palatte.png){: style="max-width:500px;width:auto;height:auto;"}
 
-    1. **Build the following code: find the blocks, and drag them to the editor**
+    1. ### Make the cat sound
+    Build the following code: find the blocks, and drag them to the editor
 
         ![](../images/my-cat/1.png){: style="max-width:500px;width:auto;height:auto;"}
 
@@ -23,9 +27,8 @@ Try to do it yourself before looking at the instruction below.
 
         Now test it! You should hear the cat sounds when clicking on it (of course, click Start first).
 
-    1. **Now, make the cat move**:
-
-        Add more blocks to your code to make it look like this:
+    1. ### Make the cat move
+    Add more blocks to your code to make it look like this:
 
         ![](../images/my-cat/2.png){: style="max-width:500px;width:auto;height:auto;"}
 
@@ -41,7 +44,7 @@ Try to do it yourself before looking at the instruction below.
         ![](../images/my-cat/3.png){: style="max-width:300px;width:auto;height:auto;"}
         ![](../images/my-cat/4.png){: style="max-width:300px;width:auto;height:auto;"}
 
-    1. **Ok, we're done!**
+    1. ### Challenge
 
         !!! question "Challenge"
             **Can you improve it by making a change or two, or adding something else, like say "hi", a background, costume...?** 
