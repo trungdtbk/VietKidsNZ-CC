@@ -9,8 +9,7 @@ markdown_extensions:
   - attr_list
   - admonition
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.emoji
 nav:
   - Home: index.md
   - Our Projects: projects.md
