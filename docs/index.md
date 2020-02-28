@@ -5,4 +5,4 @@ Come and learn programming together. We'll start with Scratch and move on from t
 Click the link below to see the list of projects we're gonna do.
 
 
-# [Click here to see the list of projects](/projects)
+# [Click here to see the list of projects](projects)
