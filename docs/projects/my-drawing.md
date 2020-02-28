@@ -5,9 +5,9 @@
 It's simple, build an App that draws this picture:
 
 start from this: 
-![](/images/my-drawing/2.png){: style="max-height:250px;width:auto;height:auto;"}
+![](../images/my-drawing/2.png){: style="max-height:250px;width:auto;height:auto;"}
 to that: 
-![](/images/my-drawing/1.png){: style="max-height:250px;width:auto;height:auto;"}
+![](../images/my-drawing/1.png){: style="max-height:250px;width:auto;height:auto;"}
 
 !!! warning
     You will need a bit of math skills to do this.
@@ -18,11 +18,11 @@ to that:
 
     Click on **Add Extensions** at the bottom of the code Palatte:
 
-    ![](/images/my-drawing/3.png){: style="max-width:500px;width:auto;height:auto;"}
+    ![](../images/my-drawing/3.png){: style="max-width:500px;width:auto;height:auto;"}
 
     The select **Pen**:
 
-    ![](/images/my-drawing/4.png){: style="max-width:500px;width:auto;height:auto;"}
+    ![](../images/my-drawing/4.png){: style="max-width:500px;width:auto;height:auto;"}
 
     1. **Make the background black. I like it because it make the picture look better**
 
@@ -38,7 +38,7 @@ to that:
 
         If you don't know what a variable is, it's ok for now. Go to **Variables** and select **Make a variable**
 
-        ![](/images/my-drawing/7.png){: style="max-width:500px;width:auto;height:auto;"}
+        ![](../images/my-drawing/7.png){: style="max-width:500px;width:auto;height:auto;"}
 
         Make two variables called **direction** and **step**
 
@@ -48,7 +48,7 @@ to that:
 
     1. **Now, let add this code:**
 
-        ![](/images/my-drawing/5.png){: style="max-width:500px;width:auto;height:auto;"}
+        ![](../images/my-drawing/5.png){: style="max-width:500px;width:auto;height:auto;"}
 
         Now test your app, before moving on.
 
@@ -63,11 +63,11 @@ to that:
             The code inside the repeat seems to be complicated. But what it does is to change the direction of the pen **direction** and move the pen **step** steps by that direction.
 
         !!! tip
-            Do not be afraid to try with different value for **direction** and **step**. Try to see **direction** to 40, 60, 90 or 120 like this: ![](/images/my-drawing/8.png) to see what you got.
+            Do not be afraid to try with different value for **direction** and **step**. Try to see **direction** to 40, 60, 90 or 120 like this: ![](../images/my-drawing/8.png) to see what you got.
     
     1. **Ok, add this code before the repeat so that it won't draw over old picture all over again**
 
-        ![](/images/my-drawing/9.png){: style="max-width:500px;width:auto;height:auto;"}
+        ![](../images/my-drawing/9.png){: style="max-width:500px;width:auto;height:auto;"}
 
         The block **erase all** will clear the drawing if any. The **set pen size** is used if you want different pen size. The **go to** make it start drawing from the center of the picture.
 

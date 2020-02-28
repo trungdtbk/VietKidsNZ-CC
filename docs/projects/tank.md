@@ -2,7 +2,7 @@
 
 Build a two player tank game on Scratch. The red tank and blue tank move around a maze looking for each other and shoot at each other. Something like this:
 
-![](/images/tank/1.png){: style="max-height:400px;width:auto;height:auto;"}
+![](../images/tank/1.png){: style="max-height:400px;width:auto;height:auto;"}
 
  
 !!! info "You will need several techniques to do this. Let break it down"
@@ -25,24 +25,24 @@ Build a two player tank game on Scratch. The red tank and blue tank move around 
 
     Draw a rectangle, fill it with your favourit color. Then, use the eraser, set the size and erase the rectangle to make a maze:
 
-    ![](/images/tank/2.png){: style="max-width:300px;width:auto;height:auto;"}
+    ![](../images/tank/2.png){: style="max-width:300px;width:auto;height:auto;"}
 
     Now, go to Code and add this:
 
-    ![](/images/tank/3.png){: style="max-width:300px;width:auto;height:auto;"}
+    ![](../images/tank/3.png){: style="max-width:300px;width:auto;height:auto;"}
 
     !!! info
         The **go to ... layer** makes the Maze go under the tank, otherwise you won't see them
 
     ### Make the first tank player
 
-    Create a new Sprite and named it **Red tank**. Now, you need a tank costume for your tank. You can draw yourself one or Google it. This ![](/images/tank/red_tank.png){: style="max-height:20px;width:auto;height:auto;"} can be the one.
+    Create a new Sprite and named it **Red tank**. Now, you need a tank costume for your tank. You can draw yourself one or Google it. This ![](../images/tank/red_tank.png){: style="max-height:20px;width:auto;height:auto;"} can be the one.
 
     Now, you will need several variables to keep track of the tank's direction and its position (x, and y). Let make some variables and call them: **red direction**, **red x** and **red y**.
 
     The player needs to be able to control the tank, like pressing the **up arrow** makes it go up, **down arrow** to go down and so on. This code will make that:
 
-    ![](/images/tank/4.png){: style="max-width:300px;width:auto;height:auto;"}
+    ![](../images/tank/4.png){: style="max-width:300px;width:auto;height:auto;"}
 
     Now, test to see if it works
 

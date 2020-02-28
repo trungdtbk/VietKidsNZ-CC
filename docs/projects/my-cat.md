@@ -10,13 +10,13 @@ Try to do it yourself before looking at the instruction below.
 ??? "Click to see"
 
     1. **Create a new project, then you already have a cat**
-    1. **Open the Block Palatte and look for this:** ![Start block](/images/scratch-start-block.png){: style="max-height:30px;width:auto;height:auto;"}
+    1. **Open the Block Palatte and look for this:** ![Start block](../images/scratch-start-block.png){: style="max-height:30px;width:auto;height:auto;"}
         
-        ![Block Palatte](/images/scratch/palatte.png){: style="max-width:500px;width:auto;height:auto;"}
+        ![Block Palatte](../images/scratch/palatte.png){: style="max-width:500px;width:auto;height:auto;"}
 
     1. **Build the following code: find the blocks, and drag them to the editor**
 
-        ![](/images/my-cat/1.png){: style="max-width:500px;width:auto;height:auto;"}
+        ![](../images/my-cat/1.png){: style="max-width:500px;width:auto;height:auto;"}
 
         !!! info "How this works?"
             The **forever** block keeps everything inside it run forever. The **if** block says when two conditions: **mouse down?** (mean mouse click) and **touching mouse-pointer** (mean the mouse-pointer is over the cat) then do the things inside the block.
@@ -27,7 +27,7 @@ Try to do it yourself before looking at the instruction below.
 
         Add more blocks to your code to make it look like this:
 
-        ![](/images/my-cat/2.png){: style="max-width:500px;width:auto;height:auto;"}
+        ![](../images/my-cat/2.png){: style="max-width:500px;width:auto;height:auto;"}
 
         !!! info "How this works?" 
             The **repeat until** block means do all the things inside top-to-bottom until the cat touches (reach) the mouse-pointer. Look inside, the block **next costume** tells the cat to switch between its costumes to make it like it is walking. 
@@ -38,8 +38,8 @@ Try to do it yourself before looking at the instruction below.
         
         See its costumes here in the Costume tab:
 
-        ![](/images/my-cat/3.png){: style="max-width:300px;width:auto;height:auto;"}
-        ![](/images/my-cat/4.png){: style="max-width:300px;width:auto;height:auto;"}
+        ![](../images/my-cat/3.png){: style="max-width:300px;width:auto;height:auto;"}
+        ![](../images/my-cat/4.png){: style="max-width:300px;width:auto;height:auto;"}
 
     1. **Ok, we're done!**
 
