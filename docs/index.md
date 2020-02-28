@@ -1,4 +1,4 @@
-# Welcome to VietKidsNZ Coding Club
+# :computer: **Welcome to VietKidsNZ Coding Club** :video_game:
 * * *
 
 Come and learn programming together. We'll start with Scratch and move on from there.
