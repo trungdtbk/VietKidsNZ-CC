@@ -16,7 +16,7 @@ What you learn:
 * Have some funs, play a few games on Scratch
 * Create your first Scratch project
 
-# [My cat :cat:](/projects/my-cat)
+# [My cat :cat:](my-cat)
 
 This is a simple Scratch app that does a few simple things. Can you do it?
 
@@ -33,7 +33,7 @@ That sounds easy, hah? How about:
 !!! challenge "Try to do it yourself"
     If you stuck, **take a look [here](/projects/my-cat)** to see one way to do it.
 
-# [My drawing](/projects/my-drawing)
+# [My drawing](my-drawing)
 
 **Difficulty**: Moderate
 
