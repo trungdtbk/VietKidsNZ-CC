@@ -43,3 +43,10 @@ Can you build a Scratch app that draws a beautiful spiral, like this one?
 
 !! challenge "Try to do it yourself"
     If you stuck, **take a look [here](/projects/my-drawing)** to see one way to do it.
+
+
+# [Tank](tank)
+
+**Difficulty**: Hard
+
+Build a two player tank game on Scratch. The red tank and blue tank move around a maze looking for each other and shoot at each other. 
