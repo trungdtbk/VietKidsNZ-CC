@@ -46,5 +46,5 @@ Try to do it yourself before looking at the instruction below.
         !!! question "Challenge"
             **Can you improve it by making a change or two, or adding something else, like say "hi", a background, costume...?** 
 
-    !!! note "This is my one"
-        [https://scratch.mit.edu/projects/371346779/](https://scratch.mit.edu/projects/371346779/)
+!!! note "This is my one"
+    [https://scratch.mit.edu/projects/371346779/](https://scratch.mit.edu/projects/371346779/)
