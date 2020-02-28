@@ -1,10 +1,18 @@
 site_name: VietKidsNZ-Coding Club
 site_description: Training materials and info about the Club activities
 site_author: Trung Truong
-theme: readthedocs
+#theme: readthedocs
+theme:
+  name: material
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
 nav:
   - Home: index.md
-  - Our meetup: meetup.md
   - Our Projects: projects.md
   - Scratch: scratch.md
   - About: about.md
