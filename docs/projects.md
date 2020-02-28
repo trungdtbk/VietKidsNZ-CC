@@ -31,7 +31,7 @@ That sounds easy, hah? How about:
 * Make it like the cat is walking while it goes
 
 !!! challenge "Try to do it yourself"
-    If you stuck, **take a look [here](/projects/my-cat)** to see one way to do it.
+    If you stuck, **take a look [here](my-cat)** to see one way to do it.
 
 # [My drawing](my-drawing)
 
@@ -42,7 +42,7 @@ Can you build a Scratch app that draws a beautiful spiral, like this one?
 ![](/images/my-drawing/1.png){: style="max-height:150px;width:auto;height:auto;"}
 
 !! challenge "Try to do it yourself"
-    If you stuck, **take a look [here](/projects/my-drawing)** to see one way to do it.
+    If you stuck, **take a look [here](my-drawing)** to see one way to do it.
 
 
 # [Tank](tank)
