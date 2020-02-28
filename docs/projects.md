@@ -41,7 +41,7 @@ Can you build a Scratch app that draws a beautiful spiral, like this one?
 
 ![](/images/my-drawing/1.png){: style="max-height:150px;width:auto;height:auto;"}
 
-!! challenge "Try to do it yourself"
+!!! challenge "Try to do it yourself"
     If you stuck, **take a look [here](my-drawing)** to see one way to do it.
 
 
